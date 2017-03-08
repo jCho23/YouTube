@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="YouTube/YouTube.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YouTube/Tests.cs">
+    <Files>
+      <File FileName="YouTube/Tests.cs" Line="32" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.YouTube PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
