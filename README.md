@@ -1,14 +1,14 @@
 # YouTube
 Automation Test Scripts for YouTube
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
